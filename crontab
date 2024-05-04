@@ -1,0 +1,1 @@
+0 * * * * cd /lumpini_cronjob && /usr/local/bin/python lumpini_pipeline.py >> cron.log 2>&1
